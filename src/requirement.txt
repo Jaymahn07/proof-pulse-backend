@@ -1,0 +1,15 @@
+streamlit
+requests
+opencv-python-headless
+pillow
+numpy
+matplotlib
+scikit-image
+scipy
+exifread
+tqdm
+torch
+torchvision
+torchaudio
+plotly
+
